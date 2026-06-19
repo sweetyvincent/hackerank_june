@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.env.*
+
+# Temporary / test files
+code/test_gemini.py
+test_gemini.py
+
+# System
+.DS_Store
+Thumbs.db
